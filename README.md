@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://avatars.githubusercontent.com/Urbaee" width="240" height="240"/>
+<img src="https://avatars.githubusercontent.com/Urbaeexyz" width="240" height="240"/>
 </p>
 <h1 align='center'> Ey yoo, what up! :wave:</h1>
 <p align='center'>Hi There, I'm Thoriq</p>
