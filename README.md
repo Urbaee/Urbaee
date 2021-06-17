@@ -4,7 +4,7 @@
 <h1 align='center'> Ey yoo, what up! :wave:</h1>
 <p align='center'>Hi There, I'm Thoriq</p>
 <p align='center'>
-<a href="https://instagram.com/thoriqazzikra_"><img height="30" src="https://github.com/ArugaZ/ArugaZ/blob/main/images/instagram.svg?raw=true"></a>&nbsp;&nbsp;
+<a href="https://instagram.com/yooiamthoriq"><img height="30" src="https://github.com/ArugaZ/ArugaZ/blob/main/images/instagram.svg?raw=true"></a>&nbsp;&nbsp;
 </p>
 
 <h3 align="left">Connect with me:</h3>
